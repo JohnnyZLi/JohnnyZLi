@@ -6,6 +6,9 @@ My background includes nearly three years in IT operations at UC Santa Cruz supp
 
 [Portfolio](https://johnnyli.dev) · [LinkedIn](https://www.linkedin.com/in/johnnyzli/) · [Email](mailto:johnny.li2003@gmail.com)
 
+**Current focus:** network engineering · protocol analysis · systems diagnostics · automation · infrastructure tooling  
+**Core tools:** Python · Cisco IOS · Linux · Wireshark · C/C++ · C#/.NET · TypeScript · Docker/Kubernetes · GitHub Actions
+
 ## Selected engineering projects
 
 | Project | Overview | Links |
