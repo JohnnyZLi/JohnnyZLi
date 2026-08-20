@@ -4,7 +4,7 @@ Network engineer based in California with experience in IT operations, network a
 
 Previously, I supported faculty, staff, and student employees in the UC Santa Cruz Humanities Division across macOS, Windows, hardware, applications, accounts, device deployment, and network connectivity.
 
-[Portfolio](https://johnnyli.dev) · [LinkedIn](https://www.linkedin.com/in/johnny-li-8b995b214/) · [Email](mailto:johnny.li2003@gmail.com)
+[Portfolio](https://johnnyli.dev) · [LinkedIn](https://www.linkedin.com/in/johnnyzli/) · [Email](mailto:johnny.li2003@gmail.com)
 
 ## Selected engineering projects
 
@@ -50,5 +50,5 @@ Previously, I supported faculty, staff, and student employees in the UC Santa Cr
 I am open to network engineering and infrastructure opportunities.
 
 - [johnnyli.dev](https://johnnyli.dev)
-- [linkedin.com/in/johnny-li-8b995b214](https://www.linkedin.com/in/johnny-li-8b995b214/)
+- [linkedin.com/in/johnnyzli](https://www.linkedin.com/in/johnnyzli/)
 - [johnny.li2003@gmail.com](mailto:johnny.li2003@gmail.com)
