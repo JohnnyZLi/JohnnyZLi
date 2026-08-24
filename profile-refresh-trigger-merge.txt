@@ -1,1 +1,2 @@
 Merge-based trigger for the one-time profile README refresh workflow.
+Trigger via merged pull request.
