@@ -20,6 +20,7 @@ My background includes nearly three years in IT operations at UC Santa Cruz supp
 | **Reliable Transport over UDP** | Sliding-window file-transfer protocol with per-packet acknowledgements, timeout-based retransmission, simulated DATA and ACK loss, out-of-order reassembly, and structured packet evidence. | [Case study](https://johnnyli.dev/projects/reliable-udp-transport.html) · [Repository](https://github.com/JohnnyZLi/Reliable-UDP-Transport) |
 | **Concurrent Clear-to-Secure Proxy** | Concurrent C++ forward proxy with verified upstream TLS, reloadable hostname and IP policy, HTTP/1.1 response framing, persistent connections, and structured access logs. | [Case study](https://johnnyli.dev/projects/concurrent-c2s-proxy.html) · [Repository](https://github.com/JohnnyZLi/Concurrent-C2S-Proxy) |
 | **Fugue** | GitHub-backed orchestration protocol for multi-session AI-assisted software engineering with durable work state, protected CI/QA/integration, provenance checks, crash recovery, and replaceable execution sessions. | [Repository](https://github.com/JohnnyZLi/Fugue) |
+| **Amazon Alexa Shopping Suppressor** | Least-privilege Manifest V3 Chrome extension that suppresses Amazon's Alexa/Rufus shopping UI, repairs the blank docked-sidebar gutter, and runs locally without telemetry, storage, remote code, or privileged Chrome APIs. | [Repository](https://github.com/JohnnyZLi/amazon-alexa-shopping-suppressor) |
 
 ## Technical focus
 
